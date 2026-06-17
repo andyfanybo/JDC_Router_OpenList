@@ -288,5 +288,4 @@ bash install-openlist.sh uninstall
 
 ---
 
-**最后更新**：2024-06-17  
 **脚本版本**：基于 OpenList 最新版本
